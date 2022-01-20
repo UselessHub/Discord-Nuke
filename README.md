@@ -1,6 +1,9 @@
 # Discord-Nuke
 
-Run on python :D
+Run on replit :D
 
 Please use it for good reasons not bad C:
 
+link for replit https://replit.com/
+
+for discord.
