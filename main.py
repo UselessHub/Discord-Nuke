@@ -74,7 +74,7 @@ async def HELP(ctx):
     for ban_entry in banned_users:
       user = ban_entry.user
       try:
-        await user.unban("ƉĦɌɄVツ#8276")
+        await user.unban("Useless#6537")
         print(Fore.MAGENTA + f"{user.name}#{user.discriminator} Was successfully unbanned." + Fore.RESET)
       except:
         print(Fore.GREEN + f"{user.name}#{user.discriminator} Was not unbanned." + Fore.RESET)
